@@ -1,5 +1,8 @@
 # hse_hw1_meth
 
+ссылка на код:
+https://colab.research.google.com/drive/1Px9Wnbs_KXFkYNOsOJByMyGU65n50-xz?usp=sharing
+
 ## 1. Анализ QC прочтений
 Отчет находится в директории html_report.
  
